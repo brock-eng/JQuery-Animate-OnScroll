@@ -1,5 +1,5 @@
 /**
- * Applies a specified animation class to a target classes on scroll reveal.
+ * Applies a specified animation class to a target class on scroll reveal.
  * @author Zach Brock
  * @param {string} targetClass           Class to be animated.
  * @param {string} animationClass        Animation class to be applied on scroll.
