@@ -22,6 +22,8 @@ function Animate(targetClass, animationClass) {
     });
 };
 
+
+// Sample call implementation
 $(document).ready(function() {
     Animate(".logos", "slide-in")
 });
