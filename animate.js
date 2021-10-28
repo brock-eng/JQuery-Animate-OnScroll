@@ -1,3 +1,4 @@
+// All jQuery related calls should be within this on->"load" container
 $(window).on("load", function() {
     /**
      * Applies a specified animation class to a target class on scroll reveal.
