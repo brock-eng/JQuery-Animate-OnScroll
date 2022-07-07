@@ -25,6 +25,7 @@ $(window).on("load", function() {
         });
     };
 
+    
     // Sample usage.  Replace CSS classes with your own.
     AnimateOnScroll("animated", "slide-in", !mobile); 
 });
